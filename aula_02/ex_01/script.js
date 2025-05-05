@@ -1,10 +1,10 @@
+
+var nome = "Gabriel";
+var idade = 21;
+
 console.log("Olá, mundo!")
-console.log("Nome: Gabriel")
-console.log("Idade: 21")
-
-console.log("- Lista de compras")
-console.log("- Arroz")
-console.log("- Feijão")
-console.log("- Óleo")
+console.log("Nome:", nome)
+console.log("Idade:", idade)
 
 
+console.log('Lista de compras: \n- Arroz \n- Feijão \n- Oléo')
